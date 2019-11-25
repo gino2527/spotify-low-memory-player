@@ -15,7 +15,7 @@ import '../scss/App.scss';
 const params = {
   client_id: '21414b52ec3b448c9eff4c6de5d7048b',
   response_type: 'token',
-  redirect_uri: window.location.origin,
+  redirect_uri: `${window.location.origin}${window.location.pathname}`
   // scope: 'user-read-currently-playing user-read-playback-state user-modify-playback-state'
 };
 
