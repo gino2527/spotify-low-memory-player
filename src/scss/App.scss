@@ -1,0 +1,18 @@
+.spotify-q {
+  align-items: center;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+
+  &__button {
+    border-radius: 50%;
+    
+    &.next {
+      margin-right: 16px;
+    }
+
+    &.prev {
+      margin-left: 16px;
+    }
+  }
+}
