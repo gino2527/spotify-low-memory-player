@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "744d1c9fe6b197cc897b96f50892a3c3",
+    "revision": "d61af1b94f25e72e3e75b9672d1682f4",
     "url": "/spotify-low-memory-player/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spotify-low-memory-player/static/css/2.b0bb7f2c.chunk.css"
   },
   {
-    "revision": "8851aed1611b251831cb",
+    "revision": "153e8a023ae0bd10c4c5",
     "url": "/spotify-low-memory-player/static/css/main.674c9e0d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spotify-low-memory-player/static/js/2.2e69f48a.chunk.js"
   },
   {
-    "revision": "8851aed1611b251831cb",
-    "url": "/spotify-low-memory-player/static/js/main.abc23495.chunk.js"
+    "revision": "153e8a023ae0bd10c4c5",
+    "url": "/spotify-low-memory-player/static/js/main.e7afbdfc.chunk.js"
   },
   {
     "revision": "0ae97ac083da9edebe63",

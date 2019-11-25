@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/spotify-low-memory-player/static/css/main.674c9e0d.chunk.css",
-    "main.js": "/spotify-low-memory-player/static/js/main.abc23495.chunk.js",
-    "main.js.map": "/spotify-low-memory-player/static/js/main.abc23495.chunk.js.map",
+    "main.js": "/spotify-low-memory-player/static/js/main.e7afbdfc.chunk.js",
+    "main.js.map": "/spotify-low-memory-player/static/js/main.e7afbdfc.chunk.js.map",
     "runtime-main.js": "/spotify-low-memory-player/static/js/runtime-main.07d7c66e.js",
     "runtime-main.js.map": "/spotify-low-memory-player/static/js/runtime-main.07d7c66e.js.map",
     "static/css/2.b0bb7f2c.chunk.css": "/spotify-low-memory-player/static/css/2.b0bb7f2c.chunk.css",
     "static/js/2.2e69f48a.chunk.js": "/spotify-low-memory-player/static/js/2.2e69f48a.chunk.js",
     "static/js/2.2e69f48a.chunk.js.map": "/spotify-low-memory-player/static/js/2.2e69f48a.chunk.js.map",
     "index.html": "/spotify-low-memory-player/index.html",
-    "precache-manifest.f908e3c9f57852f46070ece53efd6bc2.js": "/spotify-low-memory-player/precache-manifest.f908e3c9f57852f46070ece53efd6bc2.js",
+    "precache-manifest.1341c79a5a6c471b6cf212733f7ef698.js": "/spotify-low-memory-player/precache-manifest.1341c79a5a6c471b6cf212733f7ef698.js",
     "service-worker.js": "/spotify-low-memory-player/service-worker.js",
     "static/css/2.b0bb7f2c.chunk.css.map": "/spotify-low-memory-player/static/css/2.b0bb7f2c.chunk.css.map",
     "static/css/main.674c9e0d.chunk.css.map": "/spotify-low-memory-player/static/css/main.674c9e0d.chunk.css.map"
@@ -19,6 +19,6 @@
     "static/css/2.b0bb7f2c.chunk.css",
     "static/js/2.2e69f48a.chunk.js",
     "static/css/main.674c9e0d.chunk.css",
-    "static/js/main.abc23495.chunk.js"
+    "static/js/main.e7afbdfc.chunk.js"
   ]
 }

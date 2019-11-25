@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/spotify-low-memory-player/precache-manifest.f908e3c9f57852f46070ece53efd6bc2.js"
+  "/spotify-low-memory-player/precache-manifest.1341c79a5a6c471b6cf212733f7ef698.js"
 );
 
 self.addEventListener('message', (event) => {
